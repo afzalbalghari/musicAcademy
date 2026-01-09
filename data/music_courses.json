@@ -1,0 +1,160 @@
+{
+  "courses":[
+    {
+      "id": "MC-101",
+      "title": "Beginner Guitar Mastery",
+      "slug": "beginner-guitar-mastery",
+      "category": "Guitar",
+      "level": "Beginner",
+      "instrument": "Acoustic & Electric Guitar",
+      "duration": "8 Weeks",
+      "lessons": 24,
+      "price": 12000,
+      "discountPrice": 9000,
+      "currency": "PKR",
+      "rating": 4.7,
+      "studentsEnrolled": 420,
+      "thumbnail": "/images/courses/guitar-beginner.jpg",
+      "shortDescription": "Learn guitar from scratch with chords, strumming, and basic music theory.",
+      "description": "This beginner-friendly guitar course covers essential chords, strumming techniques, rhythm practice, and basic music theory. Ideal for students with no prior musical background.",
+      "features": [
+        "Chord Progressions",
+        "Strumming Patterns",
+        "Basic Music Theory",
+        "Practice Exercises",
+        "Certificate of Completion"
+      ],
+      "instructor": {
+        "name": "Ali Raza",
+        "experience": "10+ Years",
+        "bio": "Professional guitarist and music educator with international teaching experience.",
+        "avatar": "/images/instructors/ali-raza.jpg"
+      }
+    },
+    {
+      "id": "MC-102",
+      "title": "Piano Essentials for Beginners",
+      "slug": "piano-essentials-beginners",
+      "category": "Piano",
+      "level": "Beginner",
+      "instrument": "Keyboard & Piano",
+      "duration": "10 Weeks",
+      "lessons": 30,
+      "price": 15000,
+      "discountPrice": 11000,
+      "currency": "PKR",
+      "rating": 4.8,
+      "studentsEnrolled": 510,
+      "thumbnail": "/images/courses/piano-beginner.jpg",
+      "shortDescription": "Master piano basics including scales, chords, and simple melodies.",
+      "description": "This course introduces piano fundamentals, hand positioning, scales, chords, and beginner-level songs. Designed for students of all ages.",
+      "features": [
+        "Scales & Chords",
+        "Sight Reading",
+        "Finger Exercises",
+        "Practice Songs",
+        "Performance Tips"
+      ],
+      "instructor": {
+        "name": "Sara Khan",
+        "experience": "12+ Years",
+        "bio": "Certified pianist with extensive experience in classical and modern music.",
+        "avatar": "/images/instructors/sara-khan.jpg"
+      }
+    },
+    {
+      "id": "MC-103",
+      "title": "Vocal Training & Voice Control",
+      "slug": "vocal-training-voice-control",
+      "category": "Vocal",
+      "level": "All Levels",
+      "instrument": "Voice",
+      "duration": "6 Weeks",
+      "lessons": 18,
+      "price": 10000,
+      "discountPrice": 8000,
+      "currency": "PKR",
+      "rating": 4.6,
+      "studentsEnrolled": 380,
+      "thumbnail": "/images/courses/vocal-training.jpg",
+      "shortDescription": "Improve pitch, tone, breathing, and vocal strength.",
+      "description": "This vocal training course focuses on breathing techniques, pitch control, tone improvement, and vocal health. Suitable for beginners and intermediate singers.",
+      "features": [
+        "Breathing Techniques",
+        "Pitch Control",
+        "Voice Strength",
+        "Warm-Up Exercises",
+        "Vocal Health Tips"
+      ],
+      "instructor": {
+        "name": "Usman Ali",
+        "experience": "8+ Years",
+        "bio": "Vocal coach specializing in classical and contemporary singing styles.",
+        "avatar": "/images/instructors/usman-ali.jpg"
+      }
+    },
+    {
+      "id": "MC-104",
+      "title": "Advanced Music Production",
+      "slug": "advanced-music-production",
+      "category": "Production",
+      "level": "Advanced",
+      "instrument": "Digital Audio Workstations",
+      "duration": "12 Weeks",
+      "lessons": 36,
+      "price": 25000,
+      "discountPrice": 20000,
+      "currency": "PKR",
+      "rating": 4.9,
+      "studentsEnrolled": 210,
+      "thumbnail": "/images/courses/music-production.jpg",
+      "shortDescription": "Professional music production using modern DAWs.",
+      "description": "Learn advanced music production techniques including mixing, mastering, sound design, and track arrangement using industry-standard DAWs.",
+      "features": [
+        "Mixing & Mastering",
+        "Sound Design",
+        "DAW Workflow",
+        "Track Arrangement",
+        "Project-Based Learning"
+      ],
+      "instructor": {
+        "name": "Ahmed Noor",
+        "experience": "15+ Years",
+        "bio": "Music producer who has worked with top national and international artists.",
+        "avatar": "/images/instructors/ahmed-noor.jpg"
+      }
+    },
+    {
+      "id": "MC-105",
+      "title": "Classical Music Theory",
+      "slug": "classical-music-theory",
+      "category": "Theory",
+      "level": "Intermediate",
+      "instrument": "Music Theory",
+      "duration": "8 Weeks",
+      "lessons": 24,
+      "price": 14000,
+      "discountPrice": 11000,
+      "currency": "PKR",
+      "rating": 4.5,
+      "studentsEnrolled": 290,
+      "thumbnail": "/images/courses/music-theory.jpg",
+      "shortDescription": "Understand the foundations of classical music theory.",
+      "description": "This course covers scales, harmony, rhythm, notation, and composition basics, providing a strong theoretical foundation for musicians.",
+      "features": [
+        "Scales & Modes",
+        "Harmony & Rhythm",
+        "Notation Reading",
+        "Composition Basics",
+        "Music Analysis"
+      ],
+      "instructor": {
+        "name": "Hina Farooq",
+        "experience": "9+ Years",
+        "bio": "Music theorist and composer with academic and practical experience.",
+        "avatar": "/images/instructors/hina-farooq.jpg"
+      }
+    }
+  ]
+}
+  
