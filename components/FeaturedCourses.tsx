@@ -14,7 +14,6 @@ interface Course {
   duration: string
   lessons: number
   price: number
-  discountPrice: number
   currency: string
   rating: number
   studentsEnrolled: number
