@@ -13,9 +13,9 @@ import { Button } from "./ui/moving-border";
             <h1 className=" mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
                 Master The Art Of Music</h1>
             <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-                Drive into our comprehensive music course and
+            Drive into our comprehensive music course and
                  transform your musical journey today. weathr
-                 you're a beginner or looking to refine your
+                 you're a beginner or looking to refines your
                 skill, join us to unlock your true potential.</p>
                 <div>
                     <Link href={"/courses"}>
