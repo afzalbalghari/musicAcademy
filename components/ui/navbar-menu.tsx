@@ -94,7 +94,7 @@ export const ProductItem = ({
       <img
         src={src}
         width={140}
-        height={70}
+        height={71}
         alt={title}
         className="shrink-0 rounded-md shadow-2xl"
       />
