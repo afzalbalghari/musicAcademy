@@ -1,4 +1,5 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
+import WhyChooseUs from "@/components/ui/WhyChooseUs";
 import Image from "next/image";
 import HeroSection from "../components/HeroSection";
 
@@ -8,6 +9,7 @@ export default function Home() {
   
       <HeroSection />
       <FeaturedCourses />
+      <WhyChooseUs />
     </main>
   );
 }
